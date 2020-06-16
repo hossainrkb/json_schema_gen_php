@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "name": "A green door",
+    "price": 12,
+    "testBool": false,
+    "tags": [
+        {
+            "data":{
+                "here":"there"
+            },
+            "running": 10
+        },
+        "green"
+    ]
+}
